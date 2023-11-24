@@ -1,3 +1,4 @@
+from magictype import annotate_types
 
 # Test the function with a script
 script = """def foo(bar:str, baz, qux=4):
