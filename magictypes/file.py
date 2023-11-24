@@ -1,6 +1,6 @@
 import ast
 import astunparse
-from rich import print
+# from rich import print
 
 class TypeAnnotator(ast.NodeTransformer):
     def __init__(self):
