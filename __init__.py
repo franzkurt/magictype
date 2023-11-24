@@ -1,4 +1,4 @@
-from magictype import annotate_types
+from magictypes import annotate_types
 
 print('--- Magic Type ---')
 print('Pass a code as str to annotate_types(code_here) and be happy :]')
